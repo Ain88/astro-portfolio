@@ -12,8 +12,8 @@ export const info = {
 
   experience: [
     {
-      name: "AMPM Service",
-      location: "Port Coquitlam, BC, Canada",
+      name: "Web Developer",
+      location: "AMPM Service, Port Coquitlam, BC, Canada",
       startDate: "Aug 2021",
       endDate: "Present",
       description: [
@@ -24,7 +24,7 @@ export const info = {
 
     {
       name: "Web Developer",
-      location: "West Vancouver, BC, Canada",
+      location: "Fedroc Holdings, West Vancouver, BC, Canada",
       startDate: "Oct 2020",
       endDate: "Aug 2021",
       description: [
@@ -35,8 +35,8 @@ export const info = {
     },
 
     {
-      name: "Blue Humming Therapy",
-      location: "San Francisco, CA, USA",
+      name: "Web Designer",
+      location: "Blue Humming Therapy, San Francisco, CA, USA",
       startDate: "Sep 2019",
       endDate: "Nov 2019",
       description: [
@@ -46,8 +46,8 @@ export const info = {
     },
 
     {
-      name: "Samsung Techwin",
-      location: "Pangyo, South Korea",
+      name: "Documenet Controller",
+      location: "Samsung Techwin, Pangyo, South Korea",
       startDate: "Jan 2013",
       endDate: "Aug 2013",
       description: [
